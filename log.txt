@@ -1,0 +1,8 @@
+Server listening on 0.0.0.0 port 22.
+Server listening on :: port 22.
+Accepted password for basterd from 10.1.1.1 port 49824 ssh2 #pass: superduperp@$$
+pam_unix(sshd:session): session opened for user pentest by (uid=0)
+Received disconnect from 10.10.170.50 port 49824:11: disconnected by user
+Disconnected from user pentest 10.10.170.50 port 49824
+pam_unix(sshd:session): session closed for user pentest
+Received signal 15; terminating.

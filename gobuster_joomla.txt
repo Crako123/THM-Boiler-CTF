@@ -1,0 +1,38 @@
+===============================================================
+Gobuster v3.5
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.249.201/joomla
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.5
+[+] Timeout:                 10s
+===============================================================
+2023/10/27 09:29:17 Starting gobuster in directory enumeration mode
+===============================================================
+[2K/images               (Status: 301) [Size: 322] [--> http://10.10.249.201/joomla/images/]
+[2K/media                (Status: 301) [Size: 321] [--> http://10.10.249.201/joomla/media/]
+[2K/templates            (Status: 301) [Size: 325] [--> http://10.10.249.201/joomla/templates/]
+[2K/modules              (Status: 301) [Size: 323] [--> http://10.10.249.201/joomla/modules/]
+[2K/tests                (Status: 301) [Size: 321] [--> http://10.10.249.201/joomla/tests/]
+[2K/bin                  (Status: 301) [Size: 319] [--> http://10.10.249.201/joomla/bin/]
+[2K/plugins              (Status: 301) [Size: 323] [--> http://10.10.249.201/joomla/plugins/]
+[2K/includes             (Status: 301) [Size: 324] [--> http://10.10.249.201/joomla/includes/]
+[2K/language             (Status: 301) [Size: 324] [--> http://10.10.249.201/joomla/language/]
+[2K/components           (Status: 301) [Size: 326] [--> http://10.10.249.201/joomla/components/]
+[2K/cache                (Status: 301) [Size: 321] [--> http://10.10.249.201/joomla/cache/]
+[2K/libraries            (Status: 301) [Size: 325] [--> http://10.10.249.201/joomla/libraries/]
+[2K/build                (Status: 301) [Size: 321] [--> http://10.10.249.201/joomla/build/]
+[2K/tmp                  (Status: 301) [Size: 319] [--> http://10.10.249.201/joomla/tmp/]
+[2K/layouts              (Status: 301) [Size: 323] [--> http://10.10.249.201/joomla/layouts/]
+[2K/administrator        (Status: 301) [Size: 329] [--> http://10.10.249.201/joomla/administrator/]
+[2K/cli                  (Status: 301) [Size: 319] [--> http://10.10.249.201/joomla/cli/]
+[2K/_files               (Status: 301) [Size: 322] [--> http://10.10.249.201/joomla/_files/]
+
+[!] Keyboard interrupt detected, terminating.
+
+===============================================================
+2023/10/27 09:43:15 Finished
+===============================================================
